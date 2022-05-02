@@ -28,3 +28,4 @@ We Have used Fluuter and Firebase in the app deveolpment side and Arduino and Pr
   > * Balasuriya K A - @BALASURIYA K A [LinkedIn]
   
   Project Link: https://github.com/ARUNKARTHICK782/smartbin/
+  Database Link: https://smartbin-a2723-default-rtdb.firebaseio.com/
